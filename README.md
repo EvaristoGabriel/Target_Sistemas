@@ -17,12 +17,17 @@ A entrada do código é passada por linha de comando, ao executar o código pass
 
 ## 3
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
+
 • O menor valor de faturamento ocorrido em um dia do mês;
+
 • O maior valor de faturamento ocorrido em um dia do mês;
+
 • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 IMPORTANTE:
+
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 A saída mostrará os menores valores de faturamento contando com valores nulos e sem valores nulos, se não houverem valores nulos no mês, o resultado será o mesmo, o maior faturamento e o número de dias em que o faturamento mensal foi superior à média mensal
@@ -48,7 +53,9 @@ A saída mostra os estados e a porcentagem representação que cada estado teve
 Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
+
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
 A saída retorna uma string invertida, no exemplo utilizei a maior palavra da lingua portuguesa, e ao pedir para evitar funções pontas, não utilizei string_inversa = string[::-1], pois considerei que também era função pronta, por isso fiz um looping que começa no último índice da string e vai para o inicio
