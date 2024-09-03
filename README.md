@@ -29,6 +29,7 @@ A saída mostrará os menores valores de faturamento contando com valores nulos 
 
 ## 4
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+
 • SP – R$67.836,43
 
 • RJ – R$36.678,66
